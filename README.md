@@ -6,7 +6,7 @@ This is the developer site for Simply Static. For support, please visit [the Wor
 
 ## Reporting bugs
 
-If you find an issue, [let us know](https://github.com/codeofconductco/simply-static/issues/new)! We want to make the best static site generator plugin possible, and every bug we crush gets us one step closer.
+If you find an issue, [let us know](https://wordpress.org/support/plugin/simply-static)! We want to make the best static site generator plugin possible, and every bug we crush gets us one step closer.
 
 Here are some things that would help us in your bug report:
 
